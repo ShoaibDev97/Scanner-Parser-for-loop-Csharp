@@ -1,0 +1,3 @@
+for(A;A;A){f}$
+for(A;A;A){for(A;A;A){f}}$
+for(;A;A){f}$

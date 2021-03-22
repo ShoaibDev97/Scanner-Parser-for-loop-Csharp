@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2013\Projects\parsingByStackHamza\parsingByStackHamza\bin\Debug\parsingByStackHamza.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\parsingByStackHamza\parsingByStackHamza\bin\Debug\parsingByStackHamza.exe
+c:\users\pc\documents\visual studio 2013\Projects\parsingByStackHamza\parsingByStackHamza\bin\Debug\parsingByStackHamza.pdb
+c:\users\pc\documents\visual studio 2013\Projects\parsingByStackHamza\parsingByStackHamza\obj\Debug\parsingByStackHamza.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\parsingByStackHamza\parsingByStackHamza\obj\Debug\parsingByStackHamza.exe
+c:\users\pc\documents\visual studio 2013\Projects\parsingByStackHamza\parsingByStackHamza\obj\Debug\parsingByStackHamza.pdb
+C:\Users\HP\Desktop\parsingByStackHamza\parsingByStackHamza\bin\Debug\parsingByStackHamza.exe.config
+C:\Users\HP\Desktop\parsingByStackHamza\parsingByStackHamza\obj\Debug\parsingByStackHamza.exe
+C:\Users\HP\Desktop\parsingByStackHamza\parsingByStackHamza\obj\Debug\parsingByStackHamza.pdb
+C:\Users\HP\Desktop\parsingByStackHamza\parsingByStackHamza\bin\Debug\parsingByStackHamza.exe
+C:\Users\HP\Desktop\parsingByStackHamza\parsingByStackHamza\bin\Debug\parsingByStackHamza.pdb
+C:\Users\HP\Desktop\parsingByStackHamza\parsingByStackHamza\obj\Debug\parsingByStackHamza.csprojResolveAssemblyReference.cache
